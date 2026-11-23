@@ -1,0 +1,23 @@
+{
+  "name": "parasoftbankframework",
+  "version": "1.0.0",
+  "description": "Parabank Automation Framework with Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark1570/ParasoftBankFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mark1570/ParasoftBankFramework/issues"
+  },
+  "homepage": "https://github.com/mark1570/ParasoftBankFramework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
